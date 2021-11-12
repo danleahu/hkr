@@ -1,6 +1,6 @@
 ---
 created: 2021-11-12T12:08:14+01:00
-modified: 2021-11-12T14:46:27+01:00
+modified: 2021-11-12T14:51:37+01:00
 ---
 
 # Weishaupt  WAS 25A
@@ -21,6 +21,10 @@ Sonde B3 - temperatura Boiler
 
 Sonde exterieure - Raccordement d'une QAC 31 à la fiche B1
 
+
+# panou reglage
+
+![Image](./0aa8c12cee62c2a3905007af63fc9385.jpg)
 ---
 
 
