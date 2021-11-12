@@ -1,9 +1,13 @@
 ---
 created: 2021-11-12T12:08:14+01:00
-modified: 2021-11-12T13:57:45+01:00
+modified: 2021-11-12T14:46:27+01:00
 ---
 
 # Weishaupt  WAS 25A
+
+# panou conducte
+
+![Image](./0aa8c12cee62c2a3905007af63fc9385.jpg)
 
 # panou technic
 
