@@ -1,6 +1,6 @@
 ---
 created: 2021-11-12T12:08:14+01:00
-modified: 2021-11-12T13:20:13+01:00
+modified: 2021-11-12T13:23:39+01:00
 ---
 
 # Weishaupt  WAS 25A
@@ -21,3 +21,9 @@ Sonde B3 - temperatura Boiler
 # info
 
 ![Image](./4e08e6a9b70b4fdb496dafe921019db6.jpg)
+
+# programs
+
+![Image](./b84635b5ee96756afbb854c84a5e0b30.jpg)
+
+![Image](./4af94e9806c4e25a9f5fbc26df8211f6.jpg)
