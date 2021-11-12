@@ -1,6 +1,6 @@
 ---
 created: 2021-11-12T12:08:14+01:00
-modified: 2021-11-12T12:22:06+01:00
+modified: 2021-11-12T12:24:31+01:00
 ---
 
 # Weishaupt  WAS 25A
@@ -11,4 +11,4 @@ modified: 2021-11-12T12:22:06+01:00
 
 Sonde B1 - fir negru se duce undeva in centrala
 
-Sonde B3
+Sonde B3 - temp Boiler
