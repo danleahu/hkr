@@ -1,6 +1,6 @@
 ---
 created: 2021-11-12T12:08:14+01:00
-modified: 2021-11-12T14:52:31+01:00
+modified: 2021-11-12T14:54:09+01:00
 ---
 
 # Weishaupt  WAS 25A
@@ -22,9 +22,7 @@ modified: 2021-11-12T14:52:31+01:00
 
 # panou reglage
 
-![Image](./0aa8c12cee62c2a3905007af63fc9385.jpg)
----
-
+![Image](./2b892982e5633149763e2ac466ed1863.jpg)![Image](./883142b927ef3afe7c123280763b84d9.jpg)
 
 # info
 
