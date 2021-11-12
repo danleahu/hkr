@@ -1,6 +1,6 @@
 ---
 created: 2021-11-12T12:08:14+01:00
-modified: 2021-11-12T13:23:39+01:00
+modified: 2021-11-12T13:57:45+01:00
 ---
 
 # Weishaupt  WAS 25A
@@ -14,6 +14,8 @@ modified: 2021-11-12T13:23:39+01:00
 Sonde B1 - fir negru se duce undeva in centrala
 
 Sonde B3 - temperatura Boiler
+
+Sonde exterieure - Raccordement d'une QAC 31 à la fiche B1
 
 ---
 
