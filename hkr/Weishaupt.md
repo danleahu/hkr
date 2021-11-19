@@ -1,6 +1,6 @@
 ---
 created: 2021-11-12T12:08:14+01:00
-modified: 2021-11-19T22:40:04+01:00
+modified: 2021-11-19T22:43:34+01:00
 ---
 
 # Weishaupt  WAS 25A
@@ -52,8 +52,10 @@ Obs:
 | Param         | Value   |
 |--------------|-----------|
 |T thermostat|20|
-|Sun temp|20|
-|umbrella temp|20|
+|Normal(Sun) temp setting|20|
+|Normal(sun) temp info|44|
+|Summer temp setting|20|
+|Summer temp info|42|
 | P15 | 0      |
 | P17      | 0 |
 | P20 | 0 |
