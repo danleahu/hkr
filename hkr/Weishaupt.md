@@ -1,6 +1,6 @@
 ---
 created: 2021-11-12T12:08:14+01:00
-modified: 2021-11-12T16:46:35+01:00
+modified: 2021-11-19T22:24:18+01:00
 ---
 
 # Weishaupt  WAS 25A
@@ -37,3 +37,5 @@ modified: 2021-11-12T16:46:35+01:00
 # Errors
 
 W14 - temp max depasita de 100 gr?!
+
+# Parametri si Caldura
