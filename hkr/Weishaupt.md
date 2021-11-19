@@ -1,6 +1,6 @@
 ---
 created: 2021-11-12T12:08:14+01:00
-modified: 2021-11-19T22:35:36+01:00
+modified: 2021-11-19T22:40:04+01:00
 ---
 
 # Weishaupt  WAS 25A
@@ -41,8 +41,19 @@ W14 - temp max depasita de 100 gr?!
 # Parametri si Caldura
 
 # C01
+Cfg:
+- thermostat Honeywell Home instalat sus in living
+
+Obs:
+- bruleurul merge in continuu de ceva vreme, arata 60 gr. pe ecran
+- 
+- thermostatul parea ca se activeaza cam la 17 grade, deci cam asta citeste senzorul intern
+
 | Param         | Value   |
 |--------------|-----------|
+|T thermostat|20|
+|Sun temp|20|
+|umbrella temp|20|
 | P15 | 0      |
 | P17      | 0 |
 | P20 | 0 |
