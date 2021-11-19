@@ -1,6 +1,6 @@
 ---
 created: 2021-11-12T12:08:14+01:00
-modified: 2021-11-19T22:43:34+01:00
+modified: 2021-11-19T22:44:02+01:00
 ---
 
 # Weishaupt  WAS 25A
@@ -55,7 +55,7 @@ Obs:
 |Normal(Sun) temp setting|20|
 |Normal(sun) temp info|44|
 |Summer temp setting|20|
-|Summer temp info|42|
+|Summer temp info|12|
 | P15 | 0      |
 | P17      | 0 |
 | P20 | 0 |
