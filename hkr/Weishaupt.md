@@ -1,6 +1,6 @@
 ---
 created: 2021-11-12T12:08:14+01:00
-modified: 2021-11-19T22:44:02+01:00
+modified: 2021-11-19T22:48:16+01:00
 ---
 
 # Weishaupt  WAS 25A
@@ -46,7 +46,7 @@ Cfg:
 
 Obs:
 - bruleurul merge in continuu de ceva vreme, arata 60 gr. pe ecran
-- 
+- calorifer hol et0 fierbinte
 - thermostatul parea ca se activeaza cam la 17 grade, deci cam asta citeste senzorul intern
 
 | Param         | Value   |
