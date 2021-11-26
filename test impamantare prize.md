@@ -1,6 +1,6 @@
 ---
 created: 2021-11-26T15:22:29+01:00
-modified: 2021-11-26T15:29:10+01:00
+modified: 2021-11-26T15:31:59+01:00
 ---
 
 # test impamantare prize
@@ -19,3 +19,10 @@ O2: catre vecin nr 9 (Nicolas)
 
 #sam O2
 ![Image](./4e139efb2357ca38ea254abbca241ad9.jpg)
+
+# bucatarie 
+O1 - stanga
+![Image](./d3563cb229b6c5565725c229694cbcd6.jpg)
+
+O1 dreapta
+![Image](./835fe8ad92dbb0a8fb6034f8c4dd47f0.jpg)![Image](./cc090f5b4c38b31125cedc368c5f17ba.jpg)![Image](./567bf5a74f6a20acf3335851d464746e.jpg)
