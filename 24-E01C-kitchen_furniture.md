@@ -1,9 +1,12 @@
 ---
 created: 2021-11-29T12:46:19+01:00
-modified: 2021-11-29T13:20:16+01:00
+modified: 2021-11-29T13:24:32+01:00
 ---
 
 # 24-E01C-kitchen_furniture
+
+# room
+- W262.4xD1667
 
 # blat
 - sz: W186x63.5xH3.8
