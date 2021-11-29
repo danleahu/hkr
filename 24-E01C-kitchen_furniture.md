@@ -1,14 +1,14 @@
 ---
 created: 2021-11-29T12:46:19+01:00
-modified: 2021-11-29T13:26:20+01:00
+modified: 2021-11-29T13:27:30+01:00
 ---
 
 # 24-E01C-kitchen_furniture
 
-# room
+# 1. room
 - W262.4xD1667
 
-# blat
+# 2. blat
 - sz: W186x63.5xH3.8
 
 ![Image](./56dd448c09d0ad02f3036328b4022124.jpg)
@@ -17,16 +17,16 @@ modified: 2021-11-29T13:26:20+01:00
 
 
 
-# dulap masina spalat
+# 3. dulap masina spalat
 - interior: W56.4 x D57.6 x H78
 - ext: W60 x D59 x H80
 
-# dulap colt 
+# 4. dulap colt 
 int: 
 
 ext: W128xD59xH80
 
-## probleme
+## 4.1. probleme
 1. De ce nu are usa sub chiuveta?!
 1. Unde dam gaura pt canalizare?
 
